@@ -3,4 +3,4 @@
 頭部の角度を周期的に変化させるだけで蛇のように進む． <br>
 頭部以外の体節は，自分の角度を一個前の体節の角度に合わせようとする（前ならえ）するだけ．  <br>
 
-![Snake](https://user-images.githubusercontent.com/81505634/114540484-8a08fa80-9c90-11eb-9acd-56963e3390b6.png  "キャプションテキスト")
+![Snake](https://user-images.githubusercontent.com/81505634/114540484-8a08fa80-9c90-11eb-9acd-56963e3390b6.png "キャプションテキスト")
